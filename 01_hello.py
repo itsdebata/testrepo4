@@ -1,2 +1,3 @@
 name = input("Enter your name: ")
-print("Hello,", name)
+age = 26
+print("Hello,", name, age)
